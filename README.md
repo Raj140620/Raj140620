@@ -43,5 +43,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=raj140620&" alt="raj140620" /></p>
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/Raj140620/jaiswaladi246/blob/output/github-contribution-grid-snake.svg)
