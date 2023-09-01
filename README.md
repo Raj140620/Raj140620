@@ -3,6 +3,7 @@
 <div align="center"> <img src="poster.jpg"></div>
 <img align="right" alt="Coding" width="500" src="code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj140620&label=Profile%20views&color=0e75b6&style=flat" alt="raj140620" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj140620" alt="raj140620" /></a> </p>
 
 - 🔭 Visit my Portfolio website [https://rajinfotechportfolio.000webhostapp.com/](https://rajinfotechportfolio.000webhostapp.com/)
 
