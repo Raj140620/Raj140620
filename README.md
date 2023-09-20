@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Raj Kumar Behera</h1>
 <h2 align="center">A passionate Network & System Admin from India.</h2>
-<div align="center"> <img src="poster.jpg"></div>
+<div align="center"> <img src="poster.jpg" usemap="#image_map">
+<map name="image_map">
+  <area alt="My Linkedin Link" title="My Linkedin Link" href="https://www.linkedin.com/in/raj-kumar-behera-b2a80226b/" coords="256,50,880,111" shape="rect">
+  <area alt="My Gmail Account" title="My Gmail Account" href="mailto:rajkumarbehera1406@gmail.com" coords="260,185,882,243" shape="rect">
+  <area alt="My Github Link" title="My Github Link" href="https://github.com/Raj140620" coords="251,-16,888,37" shape="rect">
+  <area alt="My Instagram Link" title="My Instagram Link" href="https://www.instagram.com/rajkumarbehera14/" coords="254,121,875,173" shape="rect">
+</map></div>
 <img align="right" alt="Coding" width="500" src="code.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj140620&label=Profile%20views&color=0e75b6&style=flat" alt="raj140620" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj140620" alt="raj140620" /></a> </p>
